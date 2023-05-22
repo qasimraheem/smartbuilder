@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23b667be-57f8-4f8f-a843-3fed0e746f64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SmartBuilderServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SmartBuilderServer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/owner_profile_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/owner_profile_controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/owner_submit_proposal_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/owner_submit_proposal_controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/pro_profile_cover_photo.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/pro_profile_cover_photo.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/products.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/products.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/professionals_education_history.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/professionals_education_history.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/professionals_profile_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/professionals_profile_controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/professionals_skills_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/professionals_skills_controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/professionals_work_experience_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/professionals_work_experience_controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/sign_up.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/sign_up.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/errors.js" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/errors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/upload.js" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/upload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/owner_profile.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/owner_profile.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/owner_profile_about.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/owner_profile_about.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/owner_profile_coverPhoto.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/owner_profile_coverPhoto.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/owner_submit_proposals.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/owner_submit_proposals.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/pro_profile_coverPhoto.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/pro_profile_coverPhoto.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/products.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/products.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/professional_work_experience.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/professional_work_experience.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/professionals_education_history.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/professionals_education_history.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/professionals_profile.models.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/professionals_profile.models.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/professionals_skills.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/professionals_skills.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/sign_up.models.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/sign_up.models.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mkdirp.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/mkdirp.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nodemon.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/nodemon.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nodetouch.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/nodetouch.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nopt.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/nopt.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/semver.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/semver.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/webidl-conversions/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/webidl-conversions/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/whatwg-url/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/whatwg-url/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sift/es5m/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sift/es5m/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sift/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sift/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sift/sift.csp.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sift/sift.csp.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/simple-update-notifier/build/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/simple-update-notifier/build/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/simple-update-notifier/node_modules/.bin/semver.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/simple-update-notifier/node_modules/.bin/semver.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/streamsearch/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/streamsearch/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/app.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/app.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/owner_profile_services.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/owner_profile_services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/owner_submit_proposals_service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/owner_submit_proposals_service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/pro_profile_coverPhoto.services.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/pro_profile_coverPhoto.services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/products.services.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/products.services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/professional_work_experience_services.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/professional_work_experience_services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/professionals_education_history_service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/professionals_education_history_service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/professionals_profile_services.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/professionals_profile_services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/professionals_skills_service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/professionals_skills_service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/sign_up_services.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/sign_up_services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swagger.json" beforeDir="false" afterPath="$PROJECT_DIR$/swagger.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Q9ieJ4mpQXiibDM7Se4x34aK90" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23b667be-57f8-4f8f-a843-3fed0e746f64" name="Changes" comment="" />
+      <created>1684772291308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684772291308</updated>
+      <workItem from="1684772292938" duration="588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
