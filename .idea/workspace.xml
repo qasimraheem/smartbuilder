@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="23b667be-57f8-4f8f-a843-3fed0e746f64" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
@@ -8,6 +11,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/app.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/owner_profile_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/owner_profile_controller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/owner_submit_proposal_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/owner_submit_proposal_controller.js" afterDir="false" />
@@ -48,6 +52,7 @@
       <change beforePath="$PROJECT_DIR$/node_modules/simple-update-notifier/build/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/simple-update-notifier/build/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/simple-update-notifier/node_modules/.bin/semver.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/simple-update-notifier/node_modules/.bin/semver.cmd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/streamsearch/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/streamsearch/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/app.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/app.routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services/owner_profile_services.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/owner_profile_services.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services/owner_submit_proposals_service.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/owner_submit_proposals_service.js" afterDir="false" />
@@ -67,6 +72,31 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1684773208" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1684773207" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectId" id="2Q9ieJ4mpQXiibDM7Se4x34aK90" />
   <component name="ProjectViewState">
@@ -94,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684772291308</updated>
-      <workItem from="1684772292938" duration="588000" />
+      <workItem from="1684772292938" duration="878000" />
     </task>
     <servers />
   </component>
